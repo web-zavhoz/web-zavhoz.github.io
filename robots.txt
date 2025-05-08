@@ -1,12 +1,11 @@
 User-agent: *
-Disallow: /wordpress/wp-admin/
-Allow: /wordpress/wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /trackback/
+Disallow: /*?*
+Disallow: /*?
+Allow: /wp-admin/admin-ajax.php
 
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
-Sitemap: https://web-zavhoz.ru/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Sitemap: https://web-zavhoz.ru/sitemap_index.xml 
