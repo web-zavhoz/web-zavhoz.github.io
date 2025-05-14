@@ -17,3 +17,34 @@ p {
     border: 7px solid blue !important;
 }
 */
+
+
+/* Устанавливаем шрифт Verdana явно на html и body */
+/*
+html,
+body {
+  font-family: Verdana, sans-serif !important;
+}
+
+*/
+
+
+/* Применяем Verdana глобально ко всем элементам Blocksy, включая header/footer */
+html,
+body,
+.ct-header,
+.ct-header * ,
+.ct-footer,
+.ct-footer * ,
+.site-header,
+.site-header *,
+.site-footer,
+.site-footer *,
+.widget,
+.widget *,
+nav,
+nav *,
+h1, h2, h3, h4, h5, h6,
+p, span, a, li, ul, ol, div, section {
+  font-family: Verdana, sans-serif !important;
+}
