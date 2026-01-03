@@ -19,7 +19,7 @@ p {
 */
 
 
-/* ������������� ����� Verdana ���� �� html � body */
+/* Устанавливаем шрифт Verdana явно на html и body */
 /*
 html,
 body {
@@ -29,7 +29,7 @@ body {
 */
 
 
-/* ��������� Verdana ��������� �� ���� ��������� Blocksy, ������� header/footer */
+/* Применяем Verdana глобально ко всем элементам Blocksy, включая header/footer */
 html,
 body,
 .ct-header,
@@ -47,4 +47,29 @@ nav *,
 h1, h2, h3, h4, h5, h6,
 p, span, a, li, ul, ol, div, section {
   font-family: Verdana, sans-serif !important;
+}
+
+/* Галки */
+
+.checklist {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul.checklist li {
+  position: relative;
+  padding-left: 0.5em;
+  margin-bottom: 0.5em;
+  line-height: 1.4; /* улучшает читаемость */
+}
+
+.checklist li::before {
+  content: "✓"; /* или "\2713" */
+  position: absolute;
+  left: -1em;
+  top: -0.1em; /* выравнивание по тексту */
+  color: #000000; 
+  font-weight: bold;
+  font-size: 1.1em;
+  /* Если используете эмодзи, можно убрать font-weight и color */
 }
