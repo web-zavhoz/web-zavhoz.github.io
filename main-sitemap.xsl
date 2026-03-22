@@ -143,3 +143,10 @@
 		</html>
 	</xsl:template>
 	</xsl:stylesheet>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: web-zavhoz.ru @ 2026-01-07 12:50:58 by W3 Total Cache
+-->
