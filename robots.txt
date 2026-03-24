@@ -6,6 +6,14 @@ Disallow: /wp-content/cache/
 Disallow: /trackback/
 Disallow: /*?*
 Disallow: /*?
-Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://web-zavhoz.ru/sitemap_index.xml 
+# Разрешаем индексацию системных файлов для корректного отображения
+Allow: /wp-admin/admin-ajax.php
+Allow: /*.js$
+Allow: /*.css$
+Allow: /wp-content/plugins/*.js
+Allow: /wp-content/plugins/*.css
+Allow: /wp-content/themes/*.js
+Allow: /wp-content/themes/*.css
+
+Sitemap: https://web-zavhoz.ru/sitemap_index.xml
