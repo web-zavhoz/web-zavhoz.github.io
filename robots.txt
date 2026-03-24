@@ -7,10 +7,12 @@ Disallow: /trackback/
 Disallow: /*?*
 Disallow: /*?
 
-# Разрешаем индексацию системных файлов для корректного отображения
+# Разрешаем индексацию системных файлов (убираем $ для поддержки ?ver=)
 Allow: /wp-admin/admin-ajax.php
-Allow: /*.js$
-Allow: /*.css$
+Allow: /*.js
+Allow: /*.css
+Allow: /wp-includes/*.js
+Allow: /wp-includes/*.css
 Allow: /wp-content/plugins/*.js
 Allow: /wp-content/plugins/*.css
 Allow: /wp-content/themes/*.js
