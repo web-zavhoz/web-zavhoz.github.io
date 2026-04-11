@@ -18,4 +18,4 @@ Allow: /wp-content/plugins/*.css
 Allow: /wp-content/themes/*.js
 Allow: /wp-content/themes/*.css
 
-Sitemap: https://web-zavhoz.ru/sitemap_index.xml
+Sitemap: /sitemap_index.xml

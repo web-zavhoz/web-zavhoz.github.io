@@ -1,47 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://web-zavhoz.ru/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://web-zavhoz.ru/</loc>
+		<loc>/</loc>
 		<lastmod>2026-03-19T13:37:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://web-zavhoz.ru/smena-parolej-na-sajte-i-paneli-upravleniya-hostingom/</loc>
+		<loc>/smena-parolej-na-sajte-i-paneli-upravleniya-hostingom/</loc>
 		<lastmod>2026-03-19T13:39:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://web-zavhoz.ru/vosstanovit-sajt-iz-bekapa/</loc>
+		<loc>/vosstanovit-sajt-iz-bekapa/</loc>
 		<lastmod>2026-03-20T08:29:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://web-zavhoz.ru/zdorove-sajta-wordpress/</loc>
+		<loc>/zdorove-sajta-wordpress/</loc>
 		<lastmod>2026-03-20T12:18:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://web-zavhoz.ru/kontakty/</loc>
+		<loc>/kontakty/</loc>
 		<lastmod>2026-03-22T07:29:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://web-zavhoz.ru/vylechit-sajt-ot-virusov/</loc>
+		<loc>/vylechit-sajt-ot-virusov/</loc>
 		<lastmod>2026-03-22T07:37:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://web-zavhoz.ru/ishhu-postoyanku/</loc>
+		<loc>/ishhu-postoyanku/</loc>
 		<lastmod>2026-03-22T07:42:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://web-zavhoz.ru/uskorit-sajt/</loc>
+		<loc>/uskorit-sajt/</loc>
 		<lastmod>2026-04-03T10:27:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://web-zavhoz.ru/ustranenie-oshibki-your-composer-dependencies-require-a-php-version/</loc>
+		<loc>/ustranenie-oshibki-your-composer-dependencies-require-a-php-version/</loc>
 		<lastmod>2026-04-03T10:48:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://web-zavhoz.ru/proverit-sajt-v-poiske-yandeksa/</loc>
+		<loc>/proverit-sajt-v-poiske-yandeksa/</loc>
 		<lastmod>2026-04-04T10:59:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://web-zavhoz.ru/vyvod-stranicz-iz-soplej-google/</loc>
+		<loc>/vyvod-stranicz-iz-soplej-google/</loc>
 		<lastmod>2026-04-06T09:49:49+00:00</lastmod>
 	</url>
 </urlset>
